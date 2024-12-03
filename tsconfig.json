@@ -7,7 +7,7 @@
     "strict": true,
     "declaration": true,
     "esModuleInterop": true,
-    "skipLibCheck": true         // Add this to avoid unnecessary type checks in dependencies
+    "skipLibCheck": true
   },
   "include": ["src/**/*.ts"]
 }
