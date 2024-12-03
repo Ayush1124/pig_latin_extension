@@ -1,5 +1,3 @@
-// import { JupyterFrontEnd, JupyterFrontEndPlugin } from '@jupyterlab/application';
-// import { Widget } from '@lumino/widgets';
 import { Widget } from '@lumino/widgets';
 // Helper function to convert text to Pig Latin
 function toPigLatin(text) {

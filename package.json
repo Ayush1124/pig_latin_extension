@@ -2,8 +2,8 @@
   "name": "jupyterlab-prompt-sidebar",
   "version": "1.0.0",
   "description": "A simple JupyterLab extension that adds a right sidebar with a prompt box.",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "build:lab": "jlpm build"
